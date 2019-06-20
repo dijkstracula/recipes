@@ -2,7 +2,7 @@
 
 Source: April
 
-Tags: desert, christmas
+Tags: desert, holiday
 
 Serve with brandied raisins (!)
 

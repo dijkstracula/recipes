@@ -15,15 +15,23 @@ Here are some tasty things 2 eat.
 
 [Rye Poffertjes](rye-poffertjes.md)
 
+[Currant bread](currant-bread.md)
+
 [Crunchy-topped Fresh Apricot Cake](apricot-cake.md)
+
+[Breakfast bread](breakfast-bread.md)
+
+### breakfast:
+
+[Currant bread](currant-bread.md)
+
+[Breakfast bread](breakfast-bread.md)
 
 ### brunch:
 
 [Rye Poffertjes](rye-poffertjes.md)
 
-### christmas:
-
-[Honey Rice Pudding](honey-rice-pudding.md)
+[Buttermilk Olliebollen](buttermilk-olliebollen.md)
 
 ### desert:
 
@@ -61,6 +69,10 @@ Here are some tasty things 2 eat.
 
 ### holiday:
 
+[Honey Rice Pudding](honey-rice-pudding.md)
+
+[Buttermilk Olliebollen](buttermilk-olliebollen.md)
+
 [Red wine braised cabbage](red-wine-braised-cabbage.md)
 
 ### lovethosezukes:
@@ -80,9 +92,15 @@ Here are some tasty things 2 eat.
 
 ## By name:
 
+[Breakfast bread](breakfast-bread.md)
+
+[Buttermilk Olliebollen](buttermilk-olliebollen.md)
+
 [Chickpea Soup](chickpea-soup.md)
 
 [Crunchy-topped Fresh Apricot Cake](apricot-cake.md)
+
+[Currant bread](currant-bread.md)
 
 [Dolmades (stuffed vine leaves)](dolmades.md)
 
@@ -121,9 +139,15 @@ Here are some tasty things 2 eat.
 
 [Herring and Potato Salad](herring-and-potato-salad.md)
 
+[Currant bread](currant-bread.md)
+
 [Honey Rice Pudding](honey-rice-pudding.md)
 
 [Hot Chocolate](hot-chocolate.md)
+
+[Buttermilk Olliebollen](buttermilk-olliebollen.md)
+
+[Breakfast bread](breakfast-bread.md)
 
 [Red wine braised cabbage](red-wine-braised-cabbage.md)
 
