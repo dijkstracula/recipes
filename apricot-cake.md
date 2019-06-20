@@ -2,7 +2,7 @@
 
 Source: Sally
 
-Tags: Greek, deserts
+Tags: Greek, desert, baking
 
 ## Ingredients
 

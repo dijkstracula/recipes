@@ -11,11 +11,25 @@ Here are some tasty things 2 eat.
 
 [Taramasalata](taramasalata.md)
 
+### baking:
+
+[Rye Poffertjes](rye-poffertjes.md)
+
+[Crunchy-topped Fresh Apricot Cake](apricot-cake.md)
+
+### brunch:
+
+[Rye Poffertjes](rye-poffertjes.md)
+
+### christmas:
+
+[Honey Rice Pudding](honey-rice-pudding.md)
+
 ### desert:
 
-[Hot Chocolate](hot-chocolate.md)
+[Honey Rice Pudding](honey-rice-pudding.md)
 
-### deserts:
+[Hot Chocolate](hot-chocolate.md)
 
 [Crunchy-topped Fresh Apricot Cake](apricot-cake.md)
 
@@ -45,6 +59,10 @@ Here are some tasty things 2 eat.
 
 [Roasted Aubergines with Feta Cheese](roasted-aubergines-with-feta.md)
 
+### holiday:
+
+[Red wine braised cabbage](red-wine-braised-cabbage.md)
+
 ### lovethosezukes:
 
 [Greek picnic pie](greek-picnic-pie.md)
@@ -52,6 +70,12 @@ Here are some tasty things 2 eat.
 ### mushrooms:
 
 [Mushrooms on toast](mushrooms-on-toast.md)
+
+### side dish:
+
+[Herring and Potato Salad](herring-and-potato-salad.md)
+
+[Red wine braised cabbage](red-wine-braised-cabbage.md)
 
 
 ## By name:
@@ -64,11 +88,19 @@ Here are some tasty things 2 eat.
 
 [Greek picnic pie](greek-picnic-pie.md)
 
+[Herring and Potato Salad](herring-and-potato-salad.md)
+
+[Honey Rice Pudding](honey-rice-pudding.md)
+
 [Hot Chocolate](hot-chocolate.md)
 
 [Mushrooms on toast](mushrooms-on-toast.md)
 
+[Red wine braised cabbage](red-wine-braised-cabbage.md)
+
 [Roasted Aubergines with Feta Cheese](roasted-aubergines-with-feta.md)
+
+[Rye Poffertjes](rye-poffertjes.md)
 
 [Spanibundtika (Spanikopita in a bundt pan)](spanibundtika.md)
 
@@ -85,7 +117,15 @@ Here are some tasty things 2 eat.
 
 ### april:
 
+[Rye Poffertjes](rye-poffertjes.md)
+
+[Herring and Potato Salad](herring-and-potato-salad.md)
+
+[Honey Rice Pudding](honey-rice-pudding.md)
+
 [Hot Chocolate](hot-chocolate.md)
+
+[Red wine braised cabbage](red-wine-braised-cabbage.md)
 
 ### sally:
 
