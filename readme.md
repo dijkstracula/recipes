@@ -11,9 +11,17 @@ Here are some tasty things 2 eat.
 
 [Taramasalata](taramasalata.md)
 
+### desert:
+
+[Hot Chocolate](hot-chocolate.md)
+
 ### deserts:
 
 [Crunchy-topped Fresh Apricot Cake](apricot-cake.md)
+
+### drinks:
+
+[Hot Chocolate](hot-chocolate.md)
 
 ### greek:
 
@@ -56,6 +64,8 @@ Here are some tasty things 2 eat.
 
 [Greek picnic pie](greek-picnic-pie.md)
 
+[Hot Chocolate](hot-chocolate.md)
+
 [Mushrooms on toast](mushrooms-on-toast.md)
 
 [Roasted Aubergines with Feta Cheese](roasted-aubergines-with-feta.md)
@@ -72,6 +82,10 @@ Here are some tasty things 2 eat.
 
 
 ## By source:
+
+### april:
+
+[Hot Chocolate](hot-chocolate.md)
 
 ### sally:
 
