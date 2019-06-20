@@ -15,14 +15,20 @@ TAGS_MATCHER = r"Tags:\s*(.*)$"
 template = """
 = Recipes
 
+Here are some tasty things 2 eat.
+
 == By name:
+
 $byname
 
 == By tag:
-$bysource
+
+$bytag
 
 == By source:
-$bytag
+
+$bysource
+
 """
 
 def extract_metadata(fn):
@@ -39,7 +45,7 @@ def extract_metadata(fn):
                 source = m.group(1)
             m = re.match(TAGS_MATCHER, line)
             if m is not None:
-                tags = re.split(r",\s*", line)
+                tags = re.split(r",\s*", m.group(1))
     if not name:
         print("{} missing name".format(fn))
     if not source:
@@ -57,9 +63,9 @@ def walk_repo():
 
         name, source, tags = extract_metadata(fn)
         name_to_fn[name] = fn
-        source_to_names[source].append(name)
+        source_to_names[source.lower()].append(name)
         for tag in tags:
-            tag_to_names[tag].append(name)
+            tag_to_names[tag.lower()].append(name)
 
 def hyperlink(name, path):
     return "[{}]({})".format(name, path)
@@ -68,16 +74,16 @@ def dict_to_links(d):
     ret = []
     for key in sorted(d.keys()):
         path = d[key]
-        ret.append(hyperlink(key,path))
+        ret.append(hyperlink(key,path) + "\n")
     return "\n".join(ret)
 
 def joined_to_link(outer, inner):
     ret = []
     for key in sorted(outer.keys()):
-        ret.append("## {}".format(key))
+        ret.append("## {}".format(key) + "\n")
         for value in outer[key]:
             path = inner[value]
-            ret.append(hyperlink(value, path))
+            ret.append(hyperlink(value, path) + "\n")
     return "\n".join(ret)
 
 def write_readme():

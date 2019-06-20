@@ -2,7 +2,7 @@
 
 Source: Sally
 
-Tags: 
+Tags: mushrooms
 
 ## Ingredients
 
