@@ -1,9 +1,9 @@
 
-= Recipes
+# Recipes
 
 Here are some tasty things 2 eat.
 
-== By name:
+## By name:
 
 [Chickpea Soup](chickpea-soup.md)
 
@@ -26,19 +26,19 @@ Here are some tasty things 2 eat.
 [Yogurt and Cucumber Soup](yogurt-and-cucumber-soup.md)
 
 
-== By tag:
+## By tag:
 
-## appetizer
+### appetizer:
 
 [Dolmades (stuffed vine leaves)](dolmades.md)
 
 [Taramasalata](taramasalata.md)
 
-## deserts
+### deserts:
 
 [Crunchy-topped Fresh Apricot Cake](apricot-cake.md)
 
-## greek
+### greek:
 
 [Yogurt and Cucumber Soup](yogurt-and-cucumber-soup.md)
 
@@ -58,14 +58,14 @@ Here are some tasty things 2 eat.
 
 [Roasted Aubergines with Feta Cheese](roasted-aubergines-with-feta.md)
 
-## mushrooms
+### mushrooms:
 
 [Mushrooms on toast](mushrooms-on-toast.md)
 
 
-== By source:
+## By source:
 
-## sally
+### sally:
 
 [Yogurt and Cucumber Soup](yogurt-and-cucumber-soup.md)
 

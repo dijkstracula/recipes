@@ -13,19 +13,19 @@ SOURCE_MATCHER = r"Source:\s*(.*)$"
 TAGS_MATCHER = r"Tags:\s*(.*)$"
 
 template = """
-= Recipes
+# Recipes
 
 Here are some tasty things 2 eat.
 
-== By name:
+## By name:
 
 $byname
 
-== By tag:
+## By tag:
 
 $bytag
 
-== By source:
+## By source:
 
 $bysource
 
@@ -80,7 +80,7 @@ def dict_to_links(d):
 def joined_to_link(outer, inner):
     ret = []
     for key in sorted(outer.keys()):
-        ret.append("## {}".format(key) + "\n")
+        ret.append("### {}".format(key) + ":\n")
         for value in outer[key]:
             path = inner[value]
             ret.append(hyperlink(value, path) + "\n")
