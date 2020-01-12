@@ -11,6 +11,8 @@ Here are some tasty things 2 eat.
 
 [Taramasalata](taramasalata.md)
 
+[Lemon and Sage Roasted Almonds](lemon-and-sage-roasted-almonds.md)
+
 ### baking:
 
 [Rye Poffertjes](rye-poffertjes.md)
@@ -83,6 +85,12 @@ Here are some tasty things 2 eat.
 
 [Mushrooms on toast](mushrooms-on-toast.md)
 
+### ottolenghi:
+
+[Mejadra](mejadra.md)
+
+[Lemon and Sage Roasted Almonds](lemon-and-sage-roasted-almonds.md)
+
 ### side dish:
 
 [Herring and Potato Salad](herring-and-potato-salad.md)
@@ -111,6 +119,10 @@ Here are some tasty things 2 eat.
 [Honey Rice Pudding](honey-rice-pudding.md)
 
 [Hot Chocolate](hot-chocolate.md)
+
+[Lemon and Sage Roasted Almonds](lemon-and-sage-roasted-almonds.md)
+
+[Mejadra](mejadra.md)
 
 [Mushrooms on toast](mushrooms-on-toast.md)
 
@@ -150,6 +162,12 @@ Here are some tasty things 2 eat.
 [Breakfast bread](breakfast-bread.md)
 
 [Red wine braised cabbage](red-wine-braised-cabbage.md)
+
+### ottolenghi:
+
+[Mejadra](mejadra.md)
+
+[Lemon and Sage Roasted Almonds](lemon-and-sage-roasted-almonds.md)
 
 ### sally:
 
